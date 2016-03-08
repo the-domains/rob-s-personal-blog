@@ -2,12 +2,13 @@ name: "Rob's Personal Blog"
 favicon: null
 layout_spectrum: 0.31307343556545675
 typography_spectrum: 0.7050054837018251
+title: Live Simply
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-74850211-1
   facebook: null
   twitter: null
 opengraph:
