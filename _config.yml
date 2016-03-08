@@ -1,7 +1,7 @@
 name: "Rob's Personal Blog"
 favicon: null
-layout_spectrum: 0.31307343556545675
-typography_spectrum: 0.7050054837018251
+layout_spectrum: 0.24174
+typography_spectrum: 0.22106
 title: Live Simply
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.585753821535036
-  lightness: 0.4078045589849353
-  saturation: 0.7307838220149279
-  rhythmicContrast: 0.5456404865253717
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
