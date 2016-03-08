@@ -1,0 +1,28 @@
+name: "Rob's Personal Blog"
+favicon: null
+layout_spectrum: 0.31307343556545675
+typography_spectrum: 0.7050054837018251
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.585753821535036
+  lightness: 0.4078045589849353
+  saturation: 0.7307838220149279
+  rhythmicContrast: 0.5456404865253717
+purpose: []
